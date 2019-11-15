@@ -1,0 +1,16 @@
+.LoginBlock{
+    border: 2px white solid;
+    border-radius: 30px;
+    padding: 1em;
+    width: 100%;
+ }
+ .Buttons{
+    padding: 1em;
+ }
+ label{
+     float: left;
+ }
+ input{
+     float: right;
+ }
+ button{margin:3%;}
